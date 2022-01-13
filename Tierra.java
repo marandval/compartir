@@ -27,6 +27,7 @@ public class Tierra {
             }
         }
         System.out.println("El programa se ha detenido");
+        System.out.println("Muchas gracias por su participacion!");
         teclado.close();
     }
     
